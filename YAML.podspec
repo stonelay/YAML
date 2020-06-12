@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
   s.requires_arc = false
-  s.source_files = 'YAML/Classes/**/*'
+  s.source_files = 'YAML/**/*'
 
   s.public_header_files = 'YAML/YAMLSerialization.h'
 
