@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'YAML'
   s.version          = '0.0.2'
-  s.summary          = 'ALL summary : A short description of YAML.'
+  s.summary          = 'ALL summary : ALL YAML.'
 
   s.description      = "ALL description : yaml description"
 
