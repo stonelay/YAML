@@ -9,9 +9,9 @@
 Pod::Spec.new do |s|
   s.name             = 'YAML'
   s.version          = '0.0.2'
-  s.summary          = 'A short description of YAML.'
+  s.summary          = 'ALL summary : A short description of YAML.'
 
-  s.description      = "yaml description"
+  s.description      = "ALL description : yaml description"
 
   s.homepage         = 'https://github.com/stoneLay/YAML'
   
